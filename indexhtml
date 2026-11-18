@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SDM Shop</title>
+<style>
+body{font-family:Arial;background:#fff8e1;margin:0;text-align:center}
+.header{background:#e65100;color:white;padding:25px}
+.card{background:white;margin:15px;padding:20px;border-radius:15px;box-shadow:0 2px 10px #ccc}
+.price{color:green;font-size:24px;font-weight:bold}
+button{background:#25D366;color:white;border:none;padding:12px 20px;font-size:18px;border-radius:10px}
+a{color:white;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>SDM SHOP</h1>
+<p>Maiduguri borno State</p>
+<p>Palm Oil, Maggi & Salt - Pay with Pi</p>
+</div>
+<div class="card">
+<h2>Palm Oil - 1 Litre</h2>
+<p class="price">10 Pi</p>
+<button><a href="https://wa.me/2340000000000?text=Hello%20Saduma%20Shop,%20I%20want%20Palm%20Oil">Order on WhatsApp</a></button>
+</div>
+<div class="card">
+<h2>Maggi - 1 Pack</h2>
+<p class="price">7 Pi</p>
+<button><a href="https://wa.me/2340000000000?text=Hello%20SDM%20Shop,%20I%20want%20Maggi">Order on WhatsApp</a></button>
+</div>
+<div class="card">
+<h2>Salt - 1 Pack</h2>
+<p class="price">1.5 Pi</p>
+<button><a href="https://wa.me/2340000000000?text=Hello%20Saduma%20Shop,%20I%20want%20Salt">Order on WhatsApp</a></button>
+</div>
+<p>Delivery available in Maiduguri</p>
+</body>
+</html>
