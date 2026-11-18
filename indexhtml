@@ -21,7 +21,7 @@ a{color:white;text-decoration:none}
 <div class="card">
 <h2>Palm Oil - 1 Litre</h2>
 <p class="price">10 Pi</p>
-<button><a href="https://wa.me/2340000000000?text=Hello%20Saduma%20Shop,%20I%20want%20Palm%20Oil">Order on WhatsApp</a></button>
+<button><a href="https://wa.me/2340000000000?text=Hello%20SDM%20Shop,%20I%20want%20Palm%20Oil">Order on WhatsApp</a></button>
 </div>
 <div class="card">
 <h2>Maggi - 1 Pack</h2>
@@ -31,7 +31,7 @@ a{color:white;text-decoration:none}
 <div class="card">
 <h2>Salt - 1 Pack</h2>
 <p class="price">1.5 Pi</p>
-<button><a href="https://wa.me/2340000000000?text=Hello%20Saduma%20Shop,%20I%20want%20Salt">Order on WhatsApp</a></button>
+<button><a href="https://wa.me/2340000000000?text=Hello%20SDM%20Shop,%20I%20want%20Salt">Order on WhatsApp</a></button>
 </div>
 <p>Delivery available in Maiduguri</p>
 </body>
